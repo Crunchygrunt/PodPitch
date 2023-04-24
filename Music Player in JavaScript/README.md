@@ -17,10 +17,17 @@ PodPitch is a fully responsive Podcast website, <br />Responsive for all devices
 
 ### Demo Screeshots
 
-![Micro Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![Micro Mobile Demo](./readme-images/mobile.png "Mobile Demo")
+
+
+![WhatsApp Image 2023-04-24 at 15 02 11](https://user-images.githubusercontent.com/81518268/233979476-09c42927-4776-49e8-bc3e-ebe0b06cc6a0.jpg)
+
+![WhatsApp Image 2023-04-24 at 15 01 57](https://user-images.githubusercontent.com/81518268/233979565-0d0e6713-384d-4151-b15c-45f01de3638c.jpg)
+
+![WhatsApp Image 2023-04-24 at 15 01 19](https://user-images.githubusercontent.com/81518268/233979672-61224b48-2f17-41b6-8d11-a0df11715a8a.jpg)
 
 ### Prerequisites
+
+
 
 Before you begin, ensure you have met the following requirements:
 
@@ -33,18 +40,15 @@ To install **PodPitch**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/micro.git
+sudo git clone https://github.com/Crunchygrunt/PodPitch.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/micro.git
+git clone https://github.com/Crunchygrunt/PodPitch.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
