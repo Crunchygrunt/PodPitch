@@ -52,4 +52,4 @@ git clone https://github.com/Crunchygrunt/PodPitch.git
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contain any license.
